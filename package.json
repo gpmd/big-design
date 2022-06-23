@@ -1,6 +1,7 @@
 {
   "name": "big-design",
   "private": true,
+  "version": "0.3.2",
   "license": "SEE LICENSE IN LICENSE.md",
   "workspaces": [
     "packages/*"
